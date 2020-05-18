@@ -4,4 +4,4 @@ npm-debug.log
 .DS_Store
 /*.env
 # Add in production.json for pushing to Github
-# config/production.json
+config/production.json
