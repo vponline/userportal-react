@@ -1,2 +1,2 @@
 # userportal-react
-social network with react, node, express, mongodb
+social network with react, redux, node, express, mongodb
