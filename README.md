@@ -13,3 +13,9 @@ Note: The Discussions/Forum page is only accessible to logged in users.
 4. User authentication with JSON Web Tokens
 5. Responsive design with Material-UI components
 6. React-Spring animations
+
+<img src="https://media.giphy.com/media/S6qXb7S6xo8xM0gPkF/giphy.gif" width="700" />
+
+<img src="https://media.giphy.com/media/YoVjDrHHPnhLNMeW11/giphy.gif" width="700" />
+
+<img src="https://media.giphy.com/media/JtHGbgwsivNikq7dg9/giphy.gif" width="700" />
