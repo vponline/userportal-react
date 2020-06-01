@@ -2,7 +2,9 @@
 Social network application
 
 Live demo: https://dry-island-83911.herokuapp.com/
+
 Test account email: test@test.com, password: 123456
+
 Note: The Discussions/Forum page is only accessible to logged in users.
 
 1. Front-end with React, Redux, functional components and hooks
